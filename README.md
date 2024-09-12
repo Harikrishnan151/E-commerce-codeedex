@@ -24,20 +24,20 @@ DataBase: MongoDB
 ### Backend (Node.js/Express)
 1. Navigate to the server directory:
    ```npm
-   cd E-commerce/Server
+   cd E-commerce-codeedex/Server
 
 2. (Install server dependencies (this will install all necessary modules listed in package.json since node_modules   is not included in the repo))
 
    -> npm install
 
 3. Run server
-   cd E-commerce/Server    
+   cd E-commerce-codeedex/Server    
 -> nodemon index.js
 
 ### Frontend (React js)
 
 1. Open another terminal and navigate to the frontend directory
-   ->cd ecommerce/frontend
+   ->cd E-commerce-codeedex/frontend
 
 2. Install frontend dependencies
 -> npm install
